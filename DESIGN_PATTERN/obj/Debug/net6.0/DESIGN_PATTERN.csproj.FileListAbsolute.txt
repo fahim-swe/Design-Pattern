@@ -1,0 +1,15 @@
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/bin/Debug/net6.0/DESIGN_PATTERN
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/bin/Debug/net6.0/DESIGN_PATTERN.deps.json
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/bin/Debug/net6.0/DESIGN_PATTERN.runtimeconfig.json
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/bin/Debug/net6.0/DESIGN_PATTERN.dll
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/bin/Debug/net6.0/DESIGN_PATTERN.pdb
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/obj/Debug/net6.0/DESIGN_PATTERN.csproj.AssemblyReference.cache
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/obj/Debug/net6.0/DESIGN_PATTERN.GeneratedMSBuildEditorConfig.editorconfig
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/obj/Debug/net6.0/DESIGN_PATTERN.AssemblyInfoInputs.cache
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/obj/Debug/net6.0/DESIGN_PATTERN.AssemblyInfo.cs
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/obj/Debug/net6.0/DESIGN_PATTERN.csproj.CoreCompileInputs.cache
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/obj/Debug/net6.0/DESIGN_PATTERN.dll
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/obj/Debug/net6.0/refint/DESIGN_PATTERN.dll
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/obj/Debug/net6.0/DESIGN_PATTERN.pdb
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/obj/Debug/net6.0/DESIGN_PATTERN.genruntimeconfig.cache
+/home/fahim/Documents/MYCV/DESING_PATTARN/Design-Pattern/DESIGN_PATTERN/obj/Debug/net6.0/ref/DESIGN_PATTERN.dll
